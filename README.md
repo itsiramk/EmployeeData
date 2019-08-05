@@ -6,7 +6,11 @@ There is a REST service or WebAPI which returns back JSON data for a HTTP Reques
 
 The app will have a navigation drawer with 3 menus: 
 
-‘Get all employee data’ or ‘Get a single employee data’ or ‘Create new record in database’
+[1] Get all employee data 
+
+[2] Get a single employee data.
+
+[3] Create new record in database
  
 1.       Call Get all employee data API and present a list of employees.
 
