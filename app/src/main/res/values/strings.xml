@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Employee Data</string>
+    <string name="admin">admin@gmail.com</string>
+    <string name="create_emp">Add Employee Details</string>
+    <string name="get_emp">Get Single Employee Info</string>
+    <string name="get_emp_all">Get All Employee Info</string>
+    <string name="emp_name">Name</string>
+    <string name="emp_salary">Salary</string>
+    <string name="emp_age">Age</string>
+    <string name="emp_id">Id</string>
+    <string name="drawerOpen">Open Drawer</string>
+    <string name="drawerClose">Close Drawer</string>
+    <string name="save">Save Data</string>
+    <string name="enter_emp_id">Enter Employee Id</string>
+    <string name="submit">Submit</string>
+</resources>
