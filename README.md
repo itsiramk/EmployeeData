@@ -5,6 +5,7 @@ This is a Kotlin based application for fetching/saving Employee Data.
 There is a REST service or WebAPI which returns back JSON data for a HTTP Request GET and POST.
 
 The app will have a navigation drawer with 3 menus: 
+
 ‘Get all employee data’ or ‘Get a single employee data’ or ‘Create new record in database’
  
 1.       Call Get all employee data API and present a list of employees.
