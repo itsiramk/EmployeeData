@@ -6,6 +6,9 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
 
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
 
     <LinearLayout
         android:id="@+id/ll_otp"
@@ -114,5 +117,5 @@
             android:background="@drawable/rounded_corners"/>
     </LinearLayout>
 
-
+    </ScrollView>
 </LinearLayout>
