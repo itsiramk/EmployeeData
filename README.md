@@ -11,8 +11,7 @@ The app will have a navigation drawer with 3 menus:
 [2] Get a single employee data -> Ask for User Input and call Get a single employee data to list the returned details.
 
 [3] Create new record in database -> Collect User Input and call Create new record and indicate User on success or failure of the API call.
- 
-    
+     
 API Used : http://dummy.restapiexample.com/
 
 Networking Library: Retrofit
