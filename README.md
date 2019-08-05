@@ -1,12 +1,11 @@
-Navigation Drawer Kotlin
+# Navigation Drawer Kotlin
 
 This is a Kotlin based application for fetching/saving Employee Data.
 
-The app will have a navigation drawer with 3 menus: 
-
 There is a REST service or WebAPI which returns back JSON data for a HTTP Request GET and POST.
 
-Have a menu or any other ways of UI for User to choose ‘Get all employee data’ or ‘Get a single employee data’ or ‘Create new record in database’
+The app will have a navigation drawer with 3 menus: 
+‘Get all employee data’ or ‘Get a single employee data’ or ‘Create new record in database’
  
 1.       Call Get all employee data API and present a list of employees.
 
