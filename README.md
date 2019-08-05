@@ -1,4 +1,4 @@
-#Navigation Drawer Kotlin
+Navigation Drawer Kotlin
 
 This is a Kotlin based application for fetching/saving Employee Data.
 
